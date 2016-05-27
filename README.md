@@ -5,9 +5,9 @@ This repository is for administration of the group.
 This is the list of things we would like to cover.
 
 ### Fundamentals
-Presented by: Marcos Caceres, ????.
-Location: TBA.
-Date: TBA.
+Presented by: Marcos Caceres.
+Location: Level 1 (GetStarted), 195 Little Colins St. 
+Dates: [6pm, 2nd of June, 2016](http://www.meetup.com/MelbourneJS/events/231413747/).
 
  * let, const, arrow function, and other new syntax.
  * Destructuring, rest, spread, default params
