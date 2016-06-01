@@ -129,7 +129,7 @@ Location: TBA.
 Date: TBA.
 
  * Micro tasks
- * Writing a setImmidiate() shim
+ * Writing a setImmidiate() shim ([relevant article](https://github.com/nodejs/node/blob/master/doc/topics/the-event-loop-timers-and-nexttick.md)). 
 
 ### Understanding Web APIs
 Presented by: TBA.
