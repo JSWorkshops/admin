@@ -5,23 +5,23 @@ This repository is for administration of the group.
 This is the list of things we would like to cover.
 
 ### Fundamentals
-Presented by: TBA.
-Location: TBA.
-Date: TBA.
+Presented by: Marcos Caceres.
+Location: Level 1 (GetStarted), 195 Little Colins St. 
+Dates: [6pm, 2nd of June, 2016](http://www.meetup.com/MelbourneJS/events/231413747/).
 
  * let, const, arrow function, and other new syntax.
  * Destructuring, rest, spread, default params
  * Template strings
 
 ### Primitives
-Presented by: TBA.
+Presented by: Marcos Cáceres, ????.
 Location: TBA.
 Date: TBA.
 
  * String, Array, Map, Set, Object, WeakSet, WeakMap
 
 ### Introduction to functional programming
-Presented by: TBA.
+Presented by: Marcos Cáceres, ???.
 Location: TBA.
 Date: TBA.
 
@@ -42,14 +42,14 @@ Date: TBA.
  * Comparison to functional approach
 
 ### Securing JS
-Presented by: TBA.
+Presented by: Paul Theriault.
 Location: TBA.
 Date: TBA.
 
  * Tools to help you catch security problems
 
 ### Generators
-Presented by: TBA.
+Presented by: Marcos Cáceres, ???.
 Location: TBA.
 Date: TBA.
 
@@ -57,7 +57,7 @@ Date: TBA.
  * API: making them, when to use them.
 
 ### Promises
-Presented by: TBA.
+Presented by: Marcos Cáceres, ???.
 Location: TBA.
 Date: TBA.
 
@@ -67,7 +67,7 @@ Date: TBA.
  * Promise.resolve, Promise.all, Promise.race
 
 ### Let's build async/await!
-Presented by: TBA.
+Presented by: Marcos Cáceres, ????.
 Location: TBA.
 Date: TBA.
 
@@ -75,7 +75,7 @@ Date: TBA.
  * Pitfalls
 
 ### fetch()'ing URLs
-Presented by: TBA.
+Presented by: Marcos Cáceres, ????.
 Location: TBA.
 Date: TBA.
 
@@ -87,14 +87,14 @@ Date: TBA.
  * Headers
 
 ### Fetching and processing data
-Presented by: TBA.
+Presented by: Marcos Cáceres, ????.
 Location: TBA.
 Date: TBA.
 
  * Asynchronous acquisition and processing data sets
 
 ### Service Workers
-Presented by: TBA.
+Presented by: Marcos Cáceres, ????.
 Location: TBA.
 Date: TBA.
 
@@ -129,7 +129,7 @@ Location: TBA.
 Date: TBA.
 
  * Micro tasks
- * Writing a setImmidiate() shim
+ * Writing a setImmidiate() shim ([relevant article](https://github.com/nodejs/node/blob/master/doc/topics/the-event-loop-timers-and-nexttick.md)). 
 
 ### Understanding Web APIs
 Presented by: TBA.
