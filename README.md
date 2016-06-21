@@ -36,7 +36,7 @@ This tutorial covers:
     * `Symbol.iterator`
     * "Roll your own"
  * Generators + Promises + async/await
-    * Pitfalls
+   * Pitfalls
 
 ### Introduction to functional programming
 Presented by: Nick Moore, Marcos Cáceres
