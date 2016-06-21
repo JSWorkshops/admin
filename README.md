@@ -64,6 +64,9 @@ Presented by: TBA.
  * Static methods
  * Dealing with lack of private properties
  * Comparison to functional approach
+ 
+Relevant reading: 
+ * [The Two Pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.4136iyr0n)
 
 ### fetch()'ing URLs
 Presented by: Marcos Cáceres, ????.
