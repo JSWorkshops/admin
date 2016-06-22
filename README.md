@@ -23,20 +23,14 @@ Presented by: Marcos Cáceres.
 
 This tutorial covers:
 
-  * Promises
-    * Theory
-    * Construction
-    * `.then()`, `.catch()`
-    * `Promise.resolve` | `.reject()` | `.all()` | `.race()`
-  * Generators
-    * Theory
-    * Mechanics
-    * API
-  * Iterators
-    * `Symbol.iterator`
-    * "Roll your own"
- * Generators + Promises + async/await
-   * Pitfalls
+* Promises: how to create and use them.
+* Promise statics: Promise `.all()` `.race()`, `.resolve()`, `reject()`.
+* Generators: theory/mechanics, and API.
+* Iterators
+ * `Symbol.iterator`
+ * "Roll your own" iterable objects
+* Using Generators + Promises to create "async/await"
+ * Pitfalls
 
 ### Introduction to functional programming
 Presented by: Nick Moore, Marcos Cáceres
