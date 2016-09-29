@@ -116,3 +116,10 @@ Presented by: TBA.
  * Writable streams
  * Readable streams
  * Transform streams
+ 
+### Advanced Service Workers
+Presented by: TBA.
+
+ * Cache strategies.
+ * Push notifications.
+ * background sync.
